@@ -1,0 +1,2 @@
+# InteractionDesignInSpring2023
+这是XMU信息学院2023年春季的Interaction Design课程的项目的代码仓库.
